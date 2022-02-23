@@ -3,13 +3,6 @@
 Topsis(Technique for Order Preference by Similarity to Ideal Solution):
 Of the numerous criteria decision-making (MCDM) methods, TOPSIS is a practical and useful technique for ranking and selecting a number of possible alternatives by measuring Euclidean distances. TOPSIS, is a simple ranking method in conception and application. The TOPSIS method based on information entropy is proposed as a decision support tool in many fields. The purpose of this methodology is to first arrive at an ideal solution and a negative ideal solution, and then find a scenario which is nearest to the ideal solution and farthest from the negative ideal solution.
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install Topsis.
-
-```bash
-pip install Topsis-Jaskaran-101917129
-```
 
 ## Usage for Topsis.py
 
